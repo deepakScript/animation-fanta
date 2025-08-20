@@ -47,7 +47,7 @@ const headphoneData = [
   {
     id: 2,
     image: Fanta2,
-    title: "Cola Zero",
+    title: " Cola Zero",
     subtitle:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
     price: "$100",
@@ -57,7 +57,7 @@ const headphoneData = [
   {
     id: 3,
     image: Fanta3,
-    title: "Coca Cola",
+    title: "Samir Coca Cola",
     subtitle:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
     price: "$100",
